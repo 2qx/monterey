@@ -1,6 +1,6 @@
 ---
 title: The Monterey Protocols
-description: Prologue: The Snow Globe
+description: Prologue - The Snow Globe
 date: 2026-01-23
 permalink: /
 image:
