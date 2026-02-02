@@ -1,10 +1,9 @@
----
----
+--- --- @import "{{ site.theme }}";
 
-@import "{{ site.theme }}";
-.container-lg{
+.container-lg {
   max-width: 500px;
 }
-  a:visited {
-    color: rgb(76, 15, 189);
-  }
+
+a:visited {
+  color: rgb(76, 15, 189);
+}

@@ -6,7 +6,7 @@ image:
 
 # The Monterey Protocols
 
-A novella for nonproliferation of a weapon against humanity. 
+A novella for the nonproliferation of a weapon against humanity. 
 
 1. [Prologue - Snowglobe](./0/)
 2. [Sunday - EMPARRT](./1/)
