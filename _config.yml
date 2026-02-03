@@ -4,7 +4,7 @@ theme: minima
 minima:
   skin: auto
 header_pages:
-  - about.md
-  - /0/README.md
-  - /1/README.md
-  - /2/README.md
+  - /about
+  - /0/
+  - /1/
+  - /2/
