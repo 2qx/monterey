@@ -1,5 +1,5 @@
 ---
-title: Prologue - The Snow Globe
+title: Prologue - Snow Globe
 date: 2026-01-23 00:30:00
 permalink: /0/
 next: /1/
