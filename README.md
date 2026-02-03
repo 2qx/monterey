@@ -8,6 +8,6 @@ image:
 
 A novella for the nonproliferation of a weapon against humanity. 
 
-1. [Prologue - Snowglobe](./prolouge/)
+1. [Prologue - Snowglobe](./prologue/)
 2. [Sunday - EMPARRT](./sunday/)
 3. [Monday - Red & Green](./monday/)
