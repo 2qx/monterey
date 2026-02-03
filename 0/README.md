@@ -6,8 +6,6 @@ image:
   path: /snowglobe.png
 ---
 
-# Snow Globe
-
 NOAA had issued Extreme Cold Weather advisories across New England for Friday evening through to Saturday; the perfect weather to keep all the flatlanders away from your snow globe sanctuary.
 
 Every Friday in winter, for the last four years, you've thrown your split-board in the rusty 2002 Subaru Legacy (your mother bought "Certified-Used" when you were three years old) and headed out to the bowl, usually staying 'til the last run at 9PM. 

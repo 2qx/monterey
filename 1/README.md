@@ -4,8 +4,6 @@ date: 2026-02-01
 permalink: /1/
 ---
 
-# EMPART
-
 There were indeed trains that went most of the way to Monterey California. 
 
 You took an Ethan Allen from Rutland toward Castleton. You traded that in for a Lake Shore Limited in Schenectady and you were off.

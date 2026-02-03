@@ -4,8 +4,6 @@ date: 2026-02-02
 permalink: /2/
 ---
 
-# Red & Green
-
 You woke up on Monday to a warm breeze sweeping up the coast through your open balcony door. 
 
 You head over to the Institute to disassemble the jumbo-iron, to take the eight terminals you had assembled into one make-shift display back into a whole computer lab. 
