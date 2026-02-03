@@ -2,6 +2,7 @@
 title: Sunday - EMPART
 date: 2026-02-01
 permalink: /1/
+layout: page
 ---
 
 There were indeed trains that went most of the way to Monterey California. 

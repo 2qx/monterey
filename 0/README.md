@@ -4,6 +4,7 @@ date: 2026-01-23
 permalink: /0/
 image:
   path: /snowglobe.png
+layout: page
 ---
 
 NOAA had issued Extreme Cold Weather advisories across New England for Friday evening through to Saturday; the perfect weather to keep all the flatlanders away from your snow globe sanctuary.

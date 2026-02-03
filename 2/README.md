@@ -2,6 +2,7 @@
 title: Monday - Red & Green
 date: 2026-02-02
 permalink: /2/
+layout: page
 ---
 
 You woke up on Monday to a warm breeze sweeping up the coast through your open balcony door. 
