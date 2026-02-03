@@ -2,3 +2,9 @@ remote_theme: "jekyll/minima@bf9ef98"
 theme: minima
 minima:
   skin: auto
+  nav_pages:
+    - about.md
+    - /0/README.md
+    - /1/README.md
+    - /2/README.md
+  hide_site_feed_link: true  
