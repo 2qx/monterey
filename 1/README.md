@@ -2,6 +2,8 @@
 title: Sunday - EMPART
 date: 2026-02-01
 permalink: /1/
+previous: /0/
+next: /2/
 layout: page
 ---
 

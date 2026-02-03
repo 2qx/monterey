@@ -2,6 +2,7 @@
 title: Prologue - The Snow Globe
 date: 2026-01-23
 permalink: /0/
+next: /1/
 image:
   path: /snowglobe.png
 layout: page
