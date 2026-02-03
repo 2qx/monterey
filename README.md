@@ -4,6 +4,7 @@ permalink: /
 image:
   path: /0/snowglobe.png
 layout: home
+date: 2026-01-23 00:00:00
 ---
 
 
