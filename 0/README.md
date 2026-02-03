@@ -226,8 +226,6 @@ You wonder if you can take a train all the way to Monterey.
 
 A computer simulation. More free school; free housing. Five grand ain't much, but what's the worst that could possibly happen?
 
-***
-
 You turn the radio on to hear: "threatened trade sanctions in retaliation over Greenland in Davos" ... and that's a NOPE.
 
 You hit #4 to see if you can pickup Montreal off the ionosphere. 
