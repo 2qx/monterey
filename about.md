@@ -11,7 +11,7 @@ layout: page
 
 This is a work of fiction. Names, characters, places and incidents are products of the author’s imagination or are used fictitiously. Any resemblance to actual events or locales or persons, living or dead, is entirely coincidental.
 
-Although the characters and plot are fictitious, the occasional papers, guides and books referenced are very real. In 2002, expert threat assessments around the central topic were very grave. Since that time, there has been an open, obvious and intense amount of work done in public health, the media, politics and civic discourse to enhance the impact of the threat―often by unwitting people who seem to have little or no idea why they are doing what they're doing.
+Although the characters and plot are fictitious, the occasional papers, guides and books referenced are very real. In 2002, expert threat assessments around the central topic were very grave. Since that time, there has been an open, obvious and intense amount of work done in public health, the media, politics and civic discourse to enhance the impact of the threat―often by unwitting people who don't seem to understand the scope of what they're doing.
 
 ## Licence
 
@@ -43,7 +43,7 @@ This work is freely available to anyone who would like to read it in perpetuity.
     
 ## By mail
     
-Any Vermonter that would prefer to read a printed copy of this novella may obtain a FREE copy by post mail by sending an email with the subject "Free copy" and an US mailing address to:
+Any Vermonter that would prefer to read a printed copy of this novella may obtain a FREE copy by post mail by sending an email with the subject "Free copy" and a US mailing address to:
 
    zine@small.neomailbox.ch 
 
